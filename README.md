@@ -1,4 +1,4 @@
-# Audio Streaming Web App
+# Real-Time Video and Audio Streaming Web App
 
 ## Project Overview
 
